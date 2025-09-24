@@ -8,3 +8,4 @@ For the first project, we will provide a description of ourselves our role in th
 After completion, we will commit the changes back to Github. For Submission, we will go to GeorgiaView submission folder for project 1 and paste the link to our repository.
 
 
+
