@@ -29,6 +29,9 @@ Single Person: Use Case & Scenario: A person who lives alone can also make use o
 Project 3 
 
 -Date: 10/29/2025
+
 --Minutes: 50
+
 --Attendees: Ayodeji Williams, Langston Huley, Zane Mottley
+
 --Topics: React Native installation, PBI, Project 2 redo, etc.
