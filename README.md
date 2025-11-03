@@ -25,4 +25,10 @@ Parent & Spouse:Use case & Scenario: A parent or a spouse wants to get groceries
 
 Single Person: Use Case & Scenario: A person who lives alone can also make use of this, let’s say that they are very busy, and spend a lot of time out of home. 
 
-Test Commit
+
+Project 3 
+
+Date: 10/29/2025
+Minutes: 50
+Attendees: Ayodeji Williams, Langston Huley, Zane Mottley
+Topics: React Native installation, PBI, Project 2 redo, etc.
