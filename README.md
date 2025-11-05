@@ -35,3 +35,5 @@ Project 3
 --Attendees: Ayodeji Williams, Langston Huley, Zane Mottley
 
 --Topics: React Native installation, PBI, Project 2 redo, etc.
+
+My code is above this README, it is named "inventoryApp.ts".
